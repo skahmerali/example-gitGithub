@@ -1,0 +1,18 @@
+git dowlowad from https://www.git-scm.com/download/win
+
+install the git and check its version
+open cmd through start bar (git -v)
+
+open github.com and create a repo with the name of your work 
+and copy the url right side of ssh/http then open the spacific folder where you want to clone your repo and write git clone <url> and enter
+
+
+open the repo folder 
+and write ur code or do ur work
+1 ===> git add . 
+2 ===> git commit -m "message "
+3 ===> git push
+		if you required configure ur 		github
+
+git config --global user.name "insert ur github name "
+git config --global user.email "ur primary email" 
